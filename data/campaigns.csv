@@ -1,0 +1,9 @@
+CampaignID;CampaignName;Channel;StartDateFixed;EndDateFixed;Budget
+CMP001;Black Friday Combat;Influencer;19.9.2024;10.1.2024;2779,48
+CMP002;Muay Thai Camp Promo;Email;8.7.2024;2.8.2024;625,54
+CMP003;Back to Training;TikTok Ad;22.1.2024;11.2.2024;3922,30
+CMP004;Holiday Gear Bundle;Facebook Ad;14.8.2024;22.8.2024;2838,70
+CMP005;Spring Sparring Sale;Google Ads;7.7.2024;14.7.2024;3782,80
+CMP006;New Year New You;Google Ads;11.1.2024;1.2.2024;2894,41
+CMP007;Summer Fight Sale;Google Ads;5.9.2024;16.9.2024;3426,01
+CMP008;BJJ World Champs Push;Google Ads;2.8.2024;21.2.2024;3466,83

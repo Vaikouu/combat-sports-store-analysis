@@ -1,0 +1,261 @@
+CustomerID;FullName;EmailProper;CountryProper;SignupSource;CustomerSegment;DateFixed
+CUST0001;Ivan Fischer;ivan51@yahoo.com;Romania;Google Ads;Returning;16.8.2024
+CUST0002;Laura Silva;laura19@outlook.com;Turkey;Direct;Returning;21.9.2024
+CUST0003;Mike Johnson;mike483@yahoo.com;Bulgaria;Referral;Returning;30.11.2024
+CUST0004;Ivan Petrov;ivan195@yahoo.com;Croatia;Instagram Ad;New;9.9.2023
+CUST0005;Yana Nilsson;yana107@gmail.com;Serbia;Email Newsletter;Returning;14.7.2024
+CUST0006;Mike Rossi;mike219@outlook.com;Austria;Organic Search;New;28.4.2024
+CUST0007;Sarah Ivanov;sarah453@mail.com;Austria;Facebook Ad;New;13.11.2023
+CUST0008;Plamen Dimitrov;plamen476@yahoo.com;Turkey;Instagram Ad;VIP;4.7.2024
+CUST0009;David Angelov;david998@outlook.com;Bulgaria;Direct;New;13.11.2023
+CUST0010;Vanya Kowalski;vanya246@abv.bg;Spain;Email Newsletter;Returning;6.6.2024
+CUST0011;Klaus Stoyanov;klaus758@gmail.com;Romania;Instagram Ad;VIP;27.6.2023
+CUST0012;Iliyan Fischer;iliyan629@abv.bg;North Macedonia;Facebook Ad;New;1.2.2024
+CUST0013;Sarah  Novak;sarah880@abv.bg;Italy;Google Ads;New;27.2.2024
+CUST0014;Yana Andersson;yana386@gmail.com;Serbia;N/A;New;1.11.2024
+CUST0015;Yana Kowalski;yana891@outlook.com;Turkey;Direct;VIP;19.12.2023
+CUST0016;Maria Fischer;maria644@abv.bg;Romania;Referral;New;28.5.2024
+CUST0017;Ani Fischer;ani951@gmail.com;Croatia;Facebook Ad;Returning;9.12.2024
+CUST0018;Sophie Silva;sophie632@yahoo.com;Croatia;Google Ads;New;27.2.2024
+CUST0019;Rado Nilsson;rado536@yahoo.com;Greece;Instagram Ad;Returning;9.5.2024
+CUST0020;Carlos  Georgiev;carlos743@gmail.com;Germany;Direct;VIP;5.11.2024
+CUST0021;Kalin Dimitrov;kalin412@abv.bg;Poland;Referral;Returning;9.6.2024
+CUST0022;Yana Silva;yana794@outlook.com;Spain;Direct;New;8.9.2024
+CUST0023;Rado Johnson;rado307@gmail.com;Romania;Instagram Ad;Returning;30.4.2024
+CUST0024;Kristina Ivanov;kristina171@outlook.com;Turkey;Google Ads;Returning;13.1.2024
+CUST0025;Petar Rossi;petar249@gmail.com;Austria;Email Newsletter;New;19.6.2023
+CUST0026;Diego Stoyanov;diego983@yahoo.com;North Macedonia;Email Newsletter;Returning;10.6.2023
+CUST0027;Georgi Stoyanov;georgi949@mail.com;Spain;Instagram Ad;VIP;6.10.2024
+CUST0028;David Larsen;david399@yahoo.com;Romania;Facebook Ad;New;15.10.2024
+CUST0029;Rado Nowak;rado115@yahoo.com;Romania;Direct;Returning;15.4.2024
+CUST0030;Elena Fischer;elena643@abv.bg;Austria;Direct;Returning;11.6.2024
+CUST0031;Mike Georgiev;mike789@mail.com;Spain;Email Newsletter;New;5.4.2024
+CUST0032;Anna Rossi;anna237@abv.bg;Romania;Direct;VIP;14.6.2023
+CUST0033;Mike Dubois;mike492@gmail.com;Austria;Organic Search;VIP;12.3.2023
+CUST0034;Kristina Kowalski;kristina252@yahoo.com;Croatia;Direct;Returning;20.8.2023
+CUST0035;Julien Ivanov;julien628@gmail.com;Croatia;Organic Search;New;29.2.2024
+CUST0036;Pierre Rossi;pierre171@abv.bg;Spain;Email Newsletter;Returning;8.11.2024
+CUST0037;Iliyan Weber;iliyan114@abv.bg;Bulgaria;Google Ads;Returning;3.9.2023
+CUST0038;Yana Kowalski;yana402@outlook.com;Croatia;Referral;Returning;25.3.2024
+CUST0039;Carlos Dubois;carlos139@outlook.com;Spain;Email Newsletter;VIP;27.2.2024
+CUST0040;Anna  Muller;anna349@mail.com;Germany;Facebook Ad;Returning;13.11.2023
+CUST0041;Todor Ivanov;todor568@gmail.com;Bulgaria;Direct;New;28.4.2024
+CUST0042;Simeon Rossi;simeon335@gmail.com;Germany;Google Ads;VIP;11.4.2024
+CUST0043;Georgi Silva;georgi194@mail.com;Serbia;Facebook Ad;New;17.8.2024
+CUST0044;Yuki Muller;yuki934@abv.bg;Romania;Email Newsletter;Returning;22.7.2023
+CUST0045;John Dimitrov;john534@gmail.com;Germany;N/A;Returning;7.2.2023
+CUST0046;Wei Petrov;wei501@yahoo.com;Turkey;Referral;New;12.7.2024
+CUST0047;Sophie Petrov;sophie788@yahoo.com;Romania;Google Ads;VIP;17.4.2024
+CUST0048;Kalin Larsen;kalin484@yahoo.com;Bulgaria;Instagram Ad;Returning;2.2.2024
+CUST0049;Teodora Nowak;teodora771@gmail.com;Poland;Organic Search;Returning;7.10.2024
+CUST0050;Anna Muller;anna741@gmail.com;North Macedonia;Organic Search;VIP;17.11.2023
+CUST0051;Emma Silva;emma577@mail.com;North Macedonia;Facebook Ad;New;27.9.2023
+CUST0052;Vanya Larsen;vanya868@abv.bg;Croatia;Google Ads;Returning;3.8.2024
+CUST0053;Mike Ivanov;mike687@yahoo.com;Austria;Facebook Ad;VIP;1.8.2024
+CUST0054;Rado Kowalski;rado258@yahoo.com;Turkey;Email Newsletter;VIP;1.8.2023
+CUST0055;Elena Dubois;elena106@yahoo.com;Croatia;Google Ads;VIP;26.1.2024
+CUST0056;Yana  Muller;yana53@abv.bg;Poland;Organic Search;Returning;26.8.2023
+CUST0057;John Weber;john150@gmail.com;Italy;Direct;New;13.7.2023
+CUST0058;Wei Muller;wei686@gmail.com;Italy;Direct;VIP;17.5.2024
+CUST0059;Petar Nowak;petar815@abv.bg;Bulgaria;Instagram Ad;VIP;5.11.2024
+CUST0060;Iliyan Stoyanov;iliyan864@mail.com;Serbia;Google Ads;New;23.10.2024
+CUST0061;Boris Kowalski;boris56@outlook.com;Turkey;Direct;New;5.2.2024
+CUST0062;Teodora Dimitrov;teodora351@gmail.com;Italy;Google Ads;Returning;19.8.2024
+CUST0063;James  Andersson;james121@abv.bg;Bulgaria;Email Newsletter;New;7.3.2024
+CUST0064;Luca Weber;luca768@mail.com;Greece;Organic Search;New;21.10.2023
+CUST0065;Julien Nilsson;julien633@abv.bg;Germany;Organic Search;Returning;27.10.2023
+CUST0066;Mike  Novak;mike665@gmail.com;Greece;Google Ads;New;29.12.2023
+CUST0067;Mike Stoyanov;mike938@yahoo.com;Germany;Referral;New;9.4.2023
+CUST0068;Laura Nilsson;laura761@yahoo.com;Italy;Referral;New;17.6.2024
+CUST0069;Georgi Nilsson;georgi932@mail.com;North Macedonia;Organic Search;New;18.9.2024
+CUST0070;Marco Kowalski;marco848@yahoo.com;Romania;Email Newsletter;New;21.11.2023
+CUST0071;Iliyan Silva;iliyan356@abv.bg;Bulgaria;Instagram Ad;New;29.8.2023
+CUST0072;Luca Silva;luca489@abv.bg;North Macedonia;N/A;New;1.6.2023
+CUST0073;Dimitar Johnson;dimitar674@outlook.com;Romania;Facebook Ad;Returning;21.10.2023
+CUST0074;Mike Rossi;mike134@yahoo.com;Poland;Direct;New;23.7.2023
+CUST0075;Sophie Fischer;sophie892@yahoo.com;Italy;Facebook Ad;New;5.12.2023
+CUST0076;Laura Larsen;laura613@yahoo.com;Serbia;Email Newsletter;Returning;22.7.2024
+CUST0077;Simeon Georgiev;simeon434@abv.bg;Turkey;Instagram Ad;Returning;8.11.2023
+CUST0078;Diego Novak;diego530@outlook.com;Croatia;Email Newsletter;New;25.11.2024
+CUST0079;Todor Novak;todor19@yahoo.com;Poland;Facebook Ad;New;10.6.2023
+CUST0080;Sarah Petrov;sarah729@abv.bg;Poland;Facebook Ad;New;18.5.2024
+CUST0081;Todor Muller;todor82@abv.bg;Turkey;Direct;New;15.10.2024
+CUST0082;Wei Stoyanov;wei323@mail.com;Serbia;Organic Search;VIP;27.9.2024
+CUST0083;Chris Larsen;chris816@yahoo.com;Bulgaria;Direct;New;2.4.2024
+CUST0084;Sophie Andersson;sophie742@mail.com;Germany;Direct;Returning;20.11.2023
+CUST0085;Diego Petrov;diego18@outlook.com;Turkey;Email Newsletter;New;26.12.2023
+CUST0086;Carlos Angelov;carlos203@gmail.com;Bulgaria;Google Ads;New;14.8.2024
+CUST0087;Hans Johnson;hans182@abv.bg;Greece;Facebook Ad;Returning;8.11.2024
+CUST0088;Vanya Dimitrov;vanya53@gmail.com;Spain;Referral;New;7.12.2023
+CUST0089;Yuki Petrov;yuki730@outlook.com;Serbia;Email Newsletter;Returning;30.11.2024
+CUST0090;Sophie Silva;sophie377@mail.com;Spain;Facebook Ad;Returning;7.9.2023
+CUST0091;Diego Ivanov;diego455@abv.bg;Austria;Email Newsletter;Returning;15.4.2024
+CUST0092;Kristina Muller;kristina266@abv.bg;Romania;Referral;VIP;30.8.2024
+CUST0093;Klaus Petrov;klaus920@mail.com;Italy;Instagram Ad;New;17.6.2024
+CUST0094;Boris Nowak;boris904@gmail.com;Romania;Referral;New;4.10.2024
+CUST0095;Emma Dimitrov;emma670@gmail.com;Serbia;Google Ads;New;28.6.2024
+CUST0096;Nikolay Andersson;nikolay978@yahoo.com;Spain;Facebook Ad;Returning;6.10.2023
+CUST0097;Ani Petrov;ani932@abv.bg;Greece;Instagram Ad;Returning;11.5.2024
+CUST0098;Plamen  Larsen;plamen743@outlook.com;Germany;Direct;New;22.8.2024
+CUST0099;Stefan Novak;stefan480@gmail.com;Bulgaria;Direct;VIP;9.11.2024
+CUST0100;Laura Johnson;laura879@outlook.com;Romania;N/A;New;6.12.2023
+CUST0101;Petar Silva;petar167@yahoo.com;Italy;Organic Search;Returning;31.8.2024
+CUST0102;Yana Nilsson;yana9@outlook.com;Romania;Instagram Ad;New;16.7.2023
+CUST0103;Sarah Kowalski;sarah950@gmail.com;Austria;Facebook Ad;New;7.12.2024
+CUST0104;Emma Nowak;emma618@abv.bg;Croatia;Referral;Returning;1.6.2023
+CUST0105;James Smith;james722@yahoo.com;Poland;Facebook Ad;New;9.11.2024
+CUST0106;Maria Ivanov;maria731@abv.bg;Romania;Direct;VIP;4.7.2023
+CUST0107;Carlos Weber;carlos971@outlook.com;Italy;Email Newsletter;VIP;8.11.2023
+CUST0108;Nikolay Angelov;nikolay35@mail.com;Greece;Referral;New;13.1.2024
+CUST0109;Marco Larsen;marco72@abv.bg;Croatia;Referral;Returning;10.12.2023
+CUST0110;Kalin Johnson;kalin615@abv.bg;Germany;Instagram Ad;VIP;1.9.2024
+CUST0111;John Smith;john870@yahoo.com;Greece;Organic Search;Returning;11.9.2023
+CUST0112;Dimitar Ivanov;dimitar622@abv.bg;Turkey;Direct;New;15.10.2024
+CUST0113;Simeon Stoyanov;simeon485@yahoo.com;Turkey;Facebook Ad;VIP;12.5.2024
+CUST0114;Georgi Johnson;georgi315@gmail.com;Greece;Organic Search;New;27.8.2023
+CUST0115;Vanya Weber;vanya828@outlook.com;Greece;N/A;New;11.9.2024
+CUST0116;Sarah Petrov;sarah844@abv.bg;Croatia;Referral;New;8.12.2024
+CUST0117;David Larsen;david353@yahoo.com;Serbia;Instagram Ad;Returning;7.12.2024
+CUST0118;Sarah Georgiev;sarah259@yahoo.com;Bulgaria;Google Ads;New;29.5.2024
+CUST0119;John  Dimitrov;john142@abv.bg;Germany;Facebook Ad;New;18.6.2024
+CUST0120;Georgi Johnson;georgi232@mail.com;North Macedonia;Instagram Ad;New;29.7.2023
+CUST0121;Plamen Stoyanov;plamen986@yahoo.com;Greece;Facebook Ad;Returning;23.6.2024
+CUST0122;Diego Kowalski;diego784@outlook.com;Spain;Organic Search;VIP;20.11.2023
+CUST0123;Iliyan Andersson;iliyan477@yahoo.com;Romania;Direct;Returning;1.6.2024
+CUST0124;Plamen Andersson;plamen843@mail.com;Croatia;Organic Search;New;21.9.2023
+CUST0125;Hans Johnson;hans390@mail.com;Austria;Instagram Ad;Returning;4.3.2024
+CUST0126;Hans Muller;hans653@outlook.com;Romania;Email Newsletter;New;15.9.2023
+CUST0127;Kristina Ivanov;kristina125@abv.bg;Croatia;Direct;New;17.5.2024
+CUST0128;Maria Rossi;maria850@mail.com;Serbia;Organic Search;New;10.1.2024
+CUST0129;Mike Andersson;mike391@yahoo.com;Romania;Facebook Ad;Returning;9.7.2024
+CUST0130;Hans Angelov;hans350@gmail.com;Germany;Facebook Ad;New;6.8.2024
+CUST0131;Mike Petrov;mike667@gmail.com;Poland;Google Ads;New;7.9.2024
+CUST0132;Chris  Andersson;chris209@abv.bg;Austria;Email Newsletter;Returning;12.8.2023
+CUST0133;Pierre Silva;pierre105@yahoo.com;Poland;Referral;New;19.1.2024
+CUST0134;Yana Angelov;yana114@mail.com;Greece;Facebook Ad;Returning;31.10.2023
+CUST0135;Sarah Andersson;sarah210@outlook.com;North Macedonia;Referral;Returning;2.7.2023
+CUST0136;Teodora Dubois;teodora711@outlook.com;Germany;Direct;Returning;5.5.2024
+CUST0137;Ivan Silva;ivan823@mail.com;Croatia;Direct;Returning;28.3.2024
+CUST0138;Elena Petrov;elena555@mail.com;Austria;Direct;Returning;7.9.2024
+CUST0139;Elena Nowak;elena88@abv.bg;Croatia;Organic Search;Returning;15.10.2023
+CUST0140;Julien  Stoyanov;julien250@yahoo.com;North Macedonia;Facebook Ad;New;20.11.2023
+CUST0141;John Weber;john551@outlook.com;Austria;Email Newsletter;Returning;15.4.2024
+CUST0142;John Johnson;john845@abv.bg;Poland;Organic Search;Returning;15.4.2024
+CUST0143;Luca Kowalski;luca560@yahoo.com;Italy;Referral;Returning;4.3.2024
+CUST0144;Vanya  Dimitrov;vanya723@yahoo.com;Romania;Google Ads;New;18.6.2023
+CUST0145;Yuki Larsen;yuki72@outlook.com;Greece;Organic Search;New;31.10.2024
+CUST0146;Stefan Silva;stefan213@abv.bg;Romania;Email Newsletter;Returning;19.10.2024
+CUST0147;Iliyan Smith;iliyan780@abv.bg;Poland;Instagram Ad;Returning;2.11.2024
+CUST0148;Marco Georgiev;marco859@abv.bg;Austria;Instagram Ad;New;23.10.2023
+CUST0149;Wei Dubois;wei115@abv.bg;Poland;Google Ads;New;11.1.2023
+CUST0150;Petar Weber;petar652@mail.com;Croatia;Direct;New;2.11.2024
+CUST0151;Iliyan Petrov;iliyan782@outlook.com;Croatia;Facebook Ad;New;14.6.2024
+CUST0152;Ani Dubois;ani516@outlook.com;Serbia;Instagram Ad;New;25.3.2024
+CUST0153;Georgi Dimitrov;georgi822@yahoo.com;Turkey;Organic Search;New;5.7.2024
+CUST0154;Marco Silva;marco124@outlook.com;Croatia;Google Ads;New;6.9.2024
+CUST0155;John Larsen;john987@abv.bg;Germany;Facebook Ad;Returning;20.8.2024
+CUST0156;Emma Nilsson;emma577@yahoo.com;Croatia;Direct;New;1.9.2023
+CUST0157;Vanya Novak;vanya110@outlook.com;Poland;Google Ads;Returning;7.7.2023
+CUST0158;Carlos Nilsson;carlos163@mail.com;Croatia;Instagram Ad;New;28.1.2024
+CUST0159;Emma Angelov;emma996@outlook.com;Bulgaria;Facebook Ad;Returning;20.9.2024
+CUST0160;Boris Petrov;boris22@abv.bg;Bulgaria;Email Newsletter;New;14.7.2023
+CUST0161;John Dubois;john761@abv.bg;Germany;Instagram Ad;New;22.7.2024
+CUST0162;Ani Andersson;ani233@yahoo.com;Bulgaria;Instagram Ad;Returning;23.2.2024
+CUST0163;Yana Dimitrov;yana727@abv.bg;Bulgaria;Instagram Ad;Returning;8.1.2024
+CUST0164;Simeon Dimitrov;simeon404@outlook.com;Turkey;Facebook Ad;New;11.5.2023
+CUST0165;John Stoyanov;john193@abv.bg;North Macedonia;Organic Search;New;18.2.2024
+CUST0166;Dimitar Dimitrov;dimitar672@mail.com;Turkey;Google Ads;New;23.8.2023
+CUST0167;Anna Kowalski;anna702@gmail.com;Turkey;Organic Search;New;10.11.2024
+CUST0168;Marco Novak;marco134@abv.bg;North Macedonia;Referral;Returning;17.12.2024
+CUST0169;Georgi Smith;georgi297@gmail.com;Spain;Google Ads;New;6.11.2023
+CUST0170;Petar Fischer;petar647@gmail.com;Germany;Facebook Ad;New;18.9.2024
+CUST0171;Rado Silva;rado277@gmail.com;Serbia;Google Ads;VIP;28.11.2023
+CUST0172;Wei Angelov;wei12@gmail.com;North Macedonia;Direct;Returning;22.6.2023
+CUST0173;Marco Petrov;marco773@outlook.com;Croatia;Direct;VIP;16.9.2024
+CUST0174;Stefan  Weber;stefan73@abv.bg;Macedonia;Direct;Returning;10.9.2024
+CUST0175;Julien Dimitrov;julien453@yahoo.com;North Macedonia;Facebook Ad;New;7.4.2023
+CUST0176;Emma Nilsson;emma961@yahoo.com;Croatia;Referral;VIP;8.5.2024
+CUST0177;Kristina Andersson;kristina978@abv.bg;Poland;Organic Search;New;8.10.2024
+CUST0178;Chris Larsen;chris445@yahoo.com;Turkey;Email Newsletter;Returning;22.1.2024
+CUST0179;Diego Stoyanov;diego822@mail.com;North Macedonia;Facebook Ad;Returning;23.10.2024
+CUST0180;Kalin Smith;kalin481@outlook.com;Austria;Direct;New;13.8.2023
+CUST0181;Sophie  Stoyanov;sophie816@mail.com;Spain;Email Newsletter;New;22.4.2024
+CUST0182;Ani Dimitrov;ani677@abv.bg;North Macedonia;Google Ads;Returning;27.6.2023
+CUST0183;Stefan Rossi;stefan870@yahoo.com;North Macedonia;Facebook Ad;New;22.4.2024
+CUST0184;Laura Stoyanov;laura741@mail.com;Greece;Direct;New;29.10.2023
+CUST0185;Stefan Andersson;stefan920@yahoo.com;Greece;Google Ads;New;19.5.2024
+CUST0186;Georgi Fischer;georgi812@mail.com;Poland;Google Ads;New;30.7.2023
+CUST0187;Boris Georgiev;boris429@abv.bg;Italy;Google Ads;VIP;10.2.2023
+CUST0188;Ani Nilsson;ani451@gmail.com;Germany;Organic Search;New;30.9.2023
+CUST0189;Maria Novak;maria468@outlook.com;Italy;Organic Search;New;11.12.2023
+CUST0190;Marco Stoyanov;marco543@gmail.com;Poland;Instagram Ad;Returning;6.11.2024
+CUST0191;Nikolay Petrov;nikolay313@gmail.com;Germany;Referral;New;20.7.2024
+CUST0192;Carlos Weber;carlos521@yahoo.com;North Macedonia;Email Newsletter;New;8.3.2023
+CUST0193;Boris Andersson;boris370@gmail.com;North Macedonia;Organic Search;VIP;8.7.2023
+CUST0194;Simeon  Stoyanov;simeon990@gmail.com;North Macedonia;Instagram Ad;Returning;23.6.2023
+CUST0195;Klaus Angelov;klaus826@abv.bg;Turkey;Instagram Ad;New;11.12.2024
+CUST0196;Ivan Muller;ivan92@mail.com;Germany;Organic Search;New;16.1.2024
+CUST0197;John Nilsson;john443@mail.com;Croatia;Organic Search;Returning;4.4.2024
+CUST0198;Pierre Stoyanov;pierre172@outlook.com;Spain;Email Newsletter;New;23.7.2023
+CUST0199;Emma  Rossi;emma192@mail.com;Poland;Referral;New;15.11.2023
+CUST0200;Carlos Rossi;carlos807@abv.bg;Turkey;Referral;VIP;22.7.2023
+CUST0201;Mike Ivanov;mike387@mail.com;North Macedonia;Organic Search;Returning;3.4.2024
+CUST0202;Plamen Novak;plamen485@abv.bg;Turkey;Referral;New;28.7.2024
+CUST0203;Simeon Andersson;simeon826@abv.bg;Romania;Direct;New;5.7.2023
+CUST0204;Emma Andersson;emma583@yahoo.com;Serbia;Instagram Ad;VIP;7.12.2023
+CUST0205;Yana Andersson;yana212@outlook.com;North Macedonia;Facebook Ad;Returning;28.4.2024
+CUST0206;John Novak;john612@gmail.com;Turkey;Direct;Returning;20.1.2024
+CUST0207;Ani Johnson;ani291@yahoo.com;Germany;Instagram Ad;New;19.7.2024
+CUST0208;Petar Johnson;petar509@yahoo.com;Croatia;Organic Search;New;16.7.2024
+CUST0209;Anna  Dubois;anna674@abv.bg;Austria;Direct;New;25.8.2023
+CUST0210;Laura Muller;laura342@gmail.com;Italy;Facebook Ad;Returning;17.12.2024
+CUST0211;James Nowak;james355@outlook.com;Serbia;Instagram Ad;Returning;25.10.2023
+CUST0212;John Muller;john962@mail.com;Spain;Organic Search;Returning;1.7.2024
+CUST0213;Julien Stoyanov;julien104@yahoo.com;Croatia;Instagram Ad;Returning;3.5.2024
+CUST0214;Marco  Weber;marco691@mail.com;Austria;Referral;New;23.8.2023
+CUST0215;Anna Georgiev;anna802@yahoo.com;Bulgaria;Email Newsletter;New;16.5.2024
+CUST0216;Anna Georgiev;anna76@gmail.com;Italy;Facebook Ad;Returning;16.9.2024
+CUST0217;Simeon Georgiev;simeon261@abv.bg;North Macedonia;Instagram Ad;New;8.11.2023
+CUST0218;Elena Rossi;elena354@mail.com;Germany;Referral;VIP;13.12.2023
+CUST0219;Mike Angelov;mike623@outlook.com;Austria;Organic Search;New;9.6.2023
+CUST0220;Wei Dubois;wei408@outlook.com;Romania;Google Ads;Returning;28.5.2024
+CUST0221;David Dubois;david595@yahoo.com;Germany;Google Ads;New;8.10.2024
+CUST0222;Maria Ivanov;maria230@abv.bg;Serbia;Facebook Ad;Returning;24.10.2024
+CUST0223;Kalin Dimitrov;kalin754@outlook.com;Spain;Direct;Returning;13.5.2024
+CUST0224;Yuki Smith;yuki817@yahoo.com;Italy;Direct;Returning;11.11.2024
+CUST0225;Kalin Stoyanov;kalin22@mail.com;Turkey;Instagram Ad;VIP;8.11.2024
+CUST0226;Boris Ivanov;boris96@gmail.com;Turkey;Organic Search;VIP;15.11.2023
+CUST0227;Hans Angelov;hans958@mail.com;Germany;Referral;Returning;23.9.2024
+CUST0228;Ivan Nilsson;ivan948@gmail.com;Poland;Direct;New;15.9.2023
+CUST0229;Iliyan Angelov;iliyan903@abv.bg;Italy;Instagram Ad;Returning;5.4.2024
+CUST0230;Petar Nilsson;petar37@mail.com;Greece;Referral;New;3.2.2024
+CUST0231;Georgi Stoyanov;georgi248@outlook.com;Spain;Referral;New;11.9.2023
+CUST0232;John Andersson;john162@yahoo.com;Poland;Direct;New;7.2.2023
+CUST0233;Sarah Ivanov;sarah470@yahoo.com;Croatia;Direct;Returning;28.2.2024
+CUST0234;Teodora Dubois;teodora36@yahoo.com;Croatia;Direct;VIP;19.6.2023
+CUST0235;Maria Dimitrov;maria340@gmail.com;Austria;N/A;Returning;16.3.2024
+CUST0236;Stefan Georgiev;stefan478@mail.com;Italy;Email Newsletter;VIP;6.5.2023
+CUST0237;Anna Stoyanov;anna69@gmail.com;North Macedonia;Email Newsletter;Returning;17.4.2024
+CUST0238;Yana Ivanov;yana204@yahoo.com;Austria;N/A;New;19.4.2024
+CUST0239;Elena Smith;elena858@yahoo.com;Greece;Direct;New;21.6.2024
+CUST0240;Kristina Dimitrov;kristina150@abv.bg;Serbia;Email Newsletter;Returning;22.10.2024
+CUST0241;Yuki Ivanov;yuki661@abv.bg;North Macedonia;Organic Search;Returning;19.10.2023
+CUST0242;Simeon Fischer;simeon930@abv.bg;Turkey;Direct;Returning;6.8.2024
+CUST0243;Yana Dimitrov;yana183@gmail.com;Greece;Organic Search;New;22.9.2023
+CUST0244;James Larsen;james766@outlook.com;North Macedonia;Facebook Ad;New;17.8.2024
+CUST0245;Anna Rossi;anna244@gmail.com;Poland;Direct;New;9.9.2024
+CUST0246;Yana Stoyanov;yana174@yahoo.com;Italy;Referral;New;7.10.2023
+CUST0247;Ani Angelov;ani307@gmail.com;Italy;Direct;New;28.10.2024
+CUST0248;Hans Ivanov;hans245@yahoo.com;Romania;Google Ads;Returning;31.8.2023
+CUST0249;Vanya Rossi;vanya812@yahoo.com;North Macedonia;Instagram Ad;Returning;1.2.2024
+CUST0250;Vanya  Silva;vanya393@gmail.com;Romania;Google Ads;Returning;14.7.2023
+CUST0251;Yana  Muller;yana216@gmail.com;North Macedonia;Email Newsletter;Returning;6.8.2023
+CUST0252;Kristina Kowalski;kristina67@gmail.com;Bulgaria;Instagram Ad;New;18.9.2023
+CUST0253;Elena Weber;elena82@outlook.com;Romania;Facebook Ad;New;28.11.2024
+CUST0254;Luca Larsen;luca640@yahoo.com;Austria;Facebook Ad;New;1.7.2024
+CUST0255;Laura Dimitrov;laura144@outlook.com;Italy;Facebook Ad;Returning;26.11.2024
+CUST0256;Chris Larsen;chris905@outlook.com;Poland;Instagram Ad;Returning;20.7.2023
+CUST0257;Anna Nowak;anna564@yahoo.com;Germany;Google Ads;Returning;4.6.2024
+CUST0258;Kalin Petrov;kalin936@mail.com;Germany;Organic Search;New;10.7.2024
+CUST0259;Todor Larsen;todor108@mail.com;Poland;Organic Search;VIP;29.11.2024
+CUST0260;Wei Smith;wei569@abv.bg;Bulgaria;Google Ads;New;19.10.2024

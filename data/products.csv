@@ -1,0 +1,56 @@
+ProductID;ProductName;Category;Brand;UnitPrice;StockQuantity
+PRD001;Curved Focus Mitts;Focus Mitts;FightGear Pro;88,41;286
+PRD002;Mexican Style Hand Wraps;Hand Wraps;RingMaster;134,25;209
+PRD003;Open Face Headgear;Headgear;IronCorner;54,5;248
+PRD004;PRO SPARRING GLOVES 16OZ;Gloves;RingMaster;110,52;253
+PRD005;Competition Shin Pads;Shin Guards;VenumStyle;114,73;113
+PRD006;Vale Tudo Shorts;Shorts;VenumStyle;25,77;342
+PRD007;MMA Fight Shorts;Shorts;Muay Elite;116,65;156
+PRD008;Dual Layer Mouthguard;Mouthguards;GrappleTech;34,35;219
+PRD009;Battle Rope 9m;Ropes & Bands;StrikeForce Gear;82,74;336
+PRD010;Heavy Bag 120cm;Punching Bags;StrikeForce Gear;92,66;177
+PRD011;Uppercut Bag;Punching Bags;RingMaster;141,07;125
+PRD012;Muay Thai Shin Guards Pro;Shin Guards;GrappleTech;67,03;379
+PRD013;COMPRESSION RASH GUARD LONG SLEEVE;Rash Guards;GrappleTech;46,11;148
+PRD014;Elastic Hand Wraps 4.5m;Hand Wraps;IronCorner;19,71;173
+PRD015;Dual Layer Mouthguard;Mouthguards;StrikeForce Gear;111,98;25
+PRD016;Skipping Rope Pro;Ropes & Bands;StrikeForce Gear;77,06;108
+PRD017;Muay Thai Shorts Classic;Shorts;Muay Elite;94,18;218
+PRD018;Competition Headgear;Headgear;RingMaster;84,8;141
+PRD019;CURVED FOCUS MITTS;Focus Mitts;IronCorner;105,93;366
+PRD020;Steel Compression Cup;Protective Cups;StrikeForce Gear;44,96;299
+PRD021;Resistance Band Set;Ropes & Bands;GrappleTech;144,21;70
+PRD022;Muay Thai Shin Guards Pro;Shin Guards;FightGear Pro;36,13;328
+PRD023;Dual Layer Mouthguard;Mouthguards;GrappleTech;26,66;144
+PRD024;Judo Gi Single Weave;Belts/Gis;IronCorner;79,13;112
+PRD025;Dual Layer Mouthguard;Mouthguards;GrappleTech;62,88;363
+PRD026;Pro Sparring Gloves 16oz;Gloves;GrappleTech;140,08;198
+PRD027;Muay Thai Shin Guards Pro;Shin Guards;GrappleTech;89,36;364
+PRD028;Coaching Focus Pads;Focus Mitts;Muay Elite;114,4;125
+PRD029;BJJ Rash Guard;Rash Guards;Muay Elite;124,45;281
+PRD030;Pro Groin Guard;Protective Cups;VenumStyle;94,16;260
+PRD031;Vale Tudo Shorts;Shorts;Muay Elite;50,82;319
+PRD032;BJJ Gi Pearl Weave;Belts/Gis;FightGear Pro;96,29;166
+PRD033;Muay Thai Shorts Classic;Shorts;Muay Elite;102,1;215
+PRD034;Competition Shin Pads;Shin Guards;FightGear Pro;97,71;389
+PRD035;Ranked Belt Set;Belts/Gis;FightGear Pro;105,18;361
+PRD036;Ranked Belt Set;Belts/Gis;IronCorner;132,58;36
+PRD037;Bag Gloves Leather;Gloves;FightGear Pro;44,58;360
+PRD038;Uppercut Bag;Punching Bags;IronCorner;73,83;121
+PRD039;MMA Fight Shorts;Shorts;RingMaster;98,45;335
+PRD040;Sparring Headgear Full Face;Headgear;IronCorner;62,21;309
+PRD041;Open Face Headgear;Headgear;StrikeForce Gear;116,18;342
+PRD042;Steel Compression Cup;Protective Cups;RingMaster;77,36;255
+PRD043;Steel Compression Cup;Protective Cups;GrappleTech;83,38;364
+PRD044;Competition MMA Gloves;Gloves;Muay Elite;38,28;200
+PRD045;Competition Shin Pads;Shin Guards;RingMaster;21,12;154
+PRD046;Uppercut Bag;Punching Bags;StrikeForce Gear;74,72;55
+PRD047;Junior Mouthguard;Mouthguards;IronCorner;38,8;171
+PRD048;Pro Groin Guard;Protective Cups;Muay Elite;21,47;14
+PRD049;Compression Rash Guard Long Sleeve;Rash Guards;StrikeForce Gear;80,98;122
+PRD050;BJJ Rash Guard;Rash Guards;IronCorner;31,99;201
+PRD051;Free Standing Bag;Punching Bags;VenumStyle;103,2;342
+PRD052;UPPERCUT BAG;Punching Bags;Muay Elite;23,84;110
+PRD053;Skipping Rope Pro;Ropes & Bands;Muay Elite;12,65;256
+PRD054;Uppercut Bag;Punching Bags;IronCorner;108,05;122
+PRD055;BJJ Gi Pearl Weave;Belts/Gis;FightGear Pro;146,19;97
